@@ -14,4 +14,5 @@ those who already know can also add their names.
 Day 3  - a)Fork Learning-Git project and play with it.  -b) create a project in github with name YOURUSERNAME.github.io, then add an index.html file to it and then open the website YOURUSERNAME.github.io
 
 The End!
-See you all in next course. Thanks!
+See you all in next course. 
+Thanks!
